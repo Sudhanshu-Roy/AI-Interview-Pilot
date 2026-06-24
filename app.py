@@ -19,9 +19,6 @@ st.set_page_config(
     layout="wide"
 )
 
-# -----------------------------
-# Session State
-# -----------------------------
 
 if "analysis" not in st.session_state:
     st.session_state.analysis = None
@@ -98,7 +95,7 @@ if st.session_state.analysis:
 
     st.markdown(st.session_state.analysis)
 
-    if st.button("Generate Interview"):
+    if st.button("Start Interview"):
 
         with st.spinner(
             "Generating Interview Questions..."
