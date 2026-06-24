@@ -1,4 +1,4 @@
-# 🚀 AI Interview Pilot
+#  AI Interview Pilot
 
 ### Your Personal AI-Powered Interview Simulator
 
