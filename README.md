@@ -44,7 +44,7 @@ The result is a realistic and data-driven interview preparation experience.
 
 ---
 
-#🌐 Live Deployment
+# 🌐 Live Deployment
 
 AI Interview Pilot is publicly deployed and accessible through Streamlit Community Cloud.
 
